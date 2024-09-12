@@ -13,6 +13,6 @@ public class TugasPraktikumKelompok {
         System.out.print("\nProdi   : D-IV Teknik Informatika");
         System.out.print("\nAlamat  : Gadang Kota Malang");
         System.out.print("\nNo HP   : 0895337264364");
-        System.out.print("\nHobi    : olahraga");
+        System.out.print("\nHobi    : bermain game");
     }
 }
