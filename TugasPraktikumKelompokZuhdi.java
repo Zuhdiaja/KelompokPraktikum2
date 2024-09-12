@@ -1,7 +1,7 @@
 /**
  * TugasPraktikumKelompok
  */
-public class TugasPraktikumKelompok {
+public class TugasPraktikumKelompokZuhdi {
     public static void main(String[] args) {
         System.out.print("---------------------------------------------------------");
         System.out.print("\n-- Data Mahasiswa Jurusan Teknologi Informasi POLINEMA --");
