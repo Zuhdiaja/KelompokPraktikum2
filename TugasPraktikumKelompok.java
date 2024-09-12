@@ -13,6 +13,6 @@ public class TugasPraktikumKelompok {
         System.out.print("\nProdi   : D-IV Teknik Informatika");
         System.out.print("\nAlamat  : Jl Musi nomor 15 Kota Blitar");
         System.out.print("\nNo HP   : 0881026153299");
-        System.out.print("\nHobi    : Healling");
+        System.out.print("\nHobi    : Futsal");
     }
 }
